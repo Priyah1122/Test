@@ -9,6 +9,7 @@ public class Test  extends TestA{
 		System.out.println("Test changes");
 		Test t=new Test();
 		t.show();
+		System.out.println("New change");
 
 	}
 
