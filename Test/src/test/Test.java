@@ -11,7 +11,7 @@ public class Test  extends TestA{
 		t.show();
 		System.out.println("New change");
 		System.out.println("New change 1");
-
+System.out.println("New change 2");
 	}
 
 }
